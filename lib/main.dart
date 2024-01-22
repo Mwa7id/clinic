@@ -79,7 +79,7 @@ class _home2 extends State<home> {
                   context: context,
                   builder: (context) {
                     return AlertDialog(
-                      title: Text("Patient's Number"),
+                      title: Text("Patients Number"),
                       content: Row(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
